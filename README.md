@@ -1,7 +1,7 @@
 # PCON-API
 
 
-# to test the api do the following steps
+### To test the api do the following steps
  1. Install mongodb and nodejs
  2. Check if mongodb , nodejs ans npm are installed successfully
  3. After pulling the folder , open the terminal in that folder
